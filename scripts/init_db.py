@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS users (
     name TEXT NOT NULL
 );
 """)
+.......
 
 # AVAILABILITY
 cursor.execute("""
